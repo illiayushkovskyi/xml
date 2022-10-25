@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MyContacts>
+	<Contact TelephoneNumber = "0981212787">Aleks</Contact>
+	<Contact TelephoneNumber = "0981212786">Mark</Contact>
+	<Contact TelephoneNumber = "0981212785">Dan</Contact>
+</MyContacts>
